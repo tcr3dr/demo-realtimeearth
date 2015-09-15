@@ -1,6 +1,6 @@
 # Realtime Earth
 
-Overlay outdated satellite imagery with realtime photography. A simple, 400 LOC example of DroneKit, Solo's video pipeline, a RESTful API, and a JavaScript app.
+Overlay outdated satellite imagery with realtime photography. A simple, 300 LOC example of DroneKit, Solo's video pipeline, a RESTful API, and a JavaScript app.
 
 ## Installation
 
